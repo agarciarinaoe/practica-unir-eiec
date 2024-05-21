@@ -1,5 +1,10 @@
 # Repo para EIEC - DevOps - UNIR
 
+# Modificacion del read me desde mi fork walter franco
+
+
+Actualizacion del readme desde walter fork y haciendo commit.
+
 Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
 
 ---
